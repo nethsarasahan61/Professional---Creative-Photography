@@ -132,9 +132,8 @@ input{
     width: 50%;
     text-align: left;
 }
-.row-lbl{
+.row-lbl{    
     margin-top: 13px;
-    background-color: aquamarine;
 }
 .row-inputs{
     width: 50%;
@@ -142,13 +141,14 @@ input{
 }
 .row-input{
     margin-top: 9px;
-    background-color: rgba(21, 0, 255, 0.319);
 }
 .form-btn{
-    position: absolute;
     font-size: 30px;
-    width: 426px;
+    width: 368px;
     margin-top: auto;
     padding: 15px 20px 15px 20px;
     border-radius: 8px;
+    color: #ccc5b9;
+    background-color: #252422;
+    border: 2px solid #ccc5b9;
 }
