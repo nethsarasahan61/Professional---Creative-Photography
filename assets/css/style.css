@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Fondamento:ital@0;1&family=Limelight&family=Uncial+Antiqua&display=swap');
 body{
     margin: 0;
     background-color: #ccc5b9;
@@ -47,4 +48,27 @@ main{
 }
 .img-des{
     width: 300px;
+}
+.title-info{
+    display: inline;
+}
+.tic{
+    display: inline;
+}
+.title-info-h1{
+    position: absolute;
+    margin-top: -12px;
+    margin-left: 23px;
+    font-size: 37px;
+    font-family: "Fondamento", cursive;    
+}
+.title-info-p{
+    max-width: 500px;
+    margin-top: -381px;
+    margin-left: 857px;    
+}
+span{
+    font-family: "Limelight", sans-serif;
+    font-style: normal;
+    color: #403d39;
 }
