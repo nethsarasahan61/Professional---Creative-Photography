@@ -39,7 +39,7 @@ body{
     transition: .6s;
 }
 main{
-    margin-top: 100px;
+    margin-top: 160px;
 }
 .best-pics{
     display: inline;   
@@ -71,4 +71,8 @@ span{
     font-family: "Limelight", sans-serif;
     font-style: normal;
     color: #403d39;
+}
+.footer{
+    display: block;
+    margin-top: 170px;
 }
